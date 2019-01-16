@@ -1,0 +1,2 @@
+select * from BiMusteri as M
+inner join BiUrun as o on o.urun_id = m.musteri_id
